@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<variation version="1.0">
+<description><name>GunsnRoses-Slash-Clean</name></description> 
+<slots>
+<slot index="0" effect="A05_StackBritishVintage" bypass="0" >
+<parameters><parameter id="0" value="0.63"/>
+<parameter id="1" value="0.71"/>
+<parameter id="2" value="0.78"/>
+<parameter id="3" value="0.88"/>
+<parameter id="4" value="0.66"/>
+</parameters>
+</slot>
+<slot index="1" effect="E25_ReverbSpring" bypass="0" >
+<parameters><parameter id="0" value="0.16"/>
+<parameter id="1" value="0.25"/>
+</parameters>
+</slot>
+<slot index="2" effect="M02_StudioReverbHallSmallTheater" bypass="0" >
+<parameters><parameter id="0" value="1"/>
+<parameter id="1" value="0.6"/>
+<parameter id="2" value="0.5"/>
+<parameter id="3" value="0.5"/>
+<parameter id="4" value="0.6"/>
+</parameters>
+</slot>
+<slot index="4" effect="E30_EqGEq" bypass="0" >
+<parameters><parameter id="0" value="0.142857"/>
+<parameter id="1" value="0.142857"/>
+<parameter id="2" value="0.342857"/>
+<parameter id="3" value="0.828571"/>
+<parameter id="4" value="1"/>
+<parameter id="5" value="0.628571"/>
+<parameter id="6" value="0.142857"/>
+<parameter id="7" value="0.6"/>
+</parameters>
+</slot>
+</slots>
+</variation>
