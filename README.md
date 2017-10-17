@@ -23,9 +23,9 @@ Ferramentas: Photoshop PS5, Illustrator AI5, GUitar Pro 6, FLSTUDIO 12, Guitar R
 <img src="https://preview.ibb.co/m9rSEQ/oficial_cover.jpg" width="300" height="300">
 <br><br>
 <p>Faixas: </p>
-<p>1. Begin of Dreams</p>
-<p>2. Die Traumdeutung/Falling Down</p>
-<p>3. Show me way</p>
+<p>1. Begin of Dreams/Falling Down | <a href="https://www.youtube.com/watch?v=F2MiRM6m9vQ&index=11&list=UUkaEQ4S6wiK-lWtjFEWEeCg">no youtube</a></p>
+<p>2. Die Traumdeutung | <a href="https://www.youtube.com/watch?v=j6EfQiIQiUg&index=10&list=UUkaEQ4S6wiK-lWtjFEWEeCg">no youtube</a></p>
+<p>3. Show me way | <a href="https://www.youtube.com/watch?v=StdSlAtefZA&index=9&list=UUkaEQ4S6wiK-lWtjFEWEeCg">no youtube</a></p>
 
 <br>
 <p>Créditos:</p>
